@@ -4,9 +4,9 @@ from models.operario import Operario
 from models.vendedor import Vendedor
 from empleados_repo import EmpleadosRepo
 
-################ Arroyo Tejeda, Mayumi Naysha (PRINCIPAL)
-## Yparraguirre Bravo, Ismael Jesús(APOYO)
-## Leu Lloclla, Jhonatan Francesco (APOYO)
+################ Arroyo Tejeda, Mayumi Naysha (PRINCIPAL) programacion de empleados_repo.py y app.py
+## Yparraguirre Bravo, Ismael Jesús(APOYO) agrega excepciones restantes al ingresar DNI
+## Leu Lloclla, Jhonatan Francesco (APOYO) revision de sintaxis y codigo de Naysha
 def menu():
     repo = EmpleadosRepo()
     while True:

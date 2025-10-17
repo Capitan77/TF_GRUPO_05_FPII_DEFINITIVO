@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
-##Yparraguirre Bravo, Ismael Jesús (PRINCIPAL)
-##Rodriguez Mamani, Fernando Juan (APOYO)
+##Yparraguirre Bravo, Ismael Jesús (PRINCIPAL) desarrollo de la la superclase y las 4 clases hijos
+##Rodriguez Mamani, Fernando Juan (APOYO) revision de sintaxis y codigo desarrollado por Ismael
 class Empleado(ABC):
     def __init__(self, dni, nombre, area, sueldo_base):
         self.__dni = dni

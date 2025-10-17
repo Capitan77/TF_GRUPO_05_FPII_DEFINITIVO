@@ -1,4 +1,4 @@
-## Arroyo Tejeda, Mayumi Naysha 
+################ Arroyo Tejeda, Mayumi Naysha (PRINCIPAL) programacion de empleados_repo.py y app.py
 class EmpleadosRepo:
     def __init__(self):
         self._empleados = []
